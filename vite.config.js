@@ -1,3 +1,3 @@
 export default {
-    base:'/AlgabraSimplified'
+    base:'/PRG08-posegame'
 }
