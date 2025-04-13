@@ -1,3 +1,8 @@
-export default {
-    base:'/PRG08-posegame/'
-}
+import { defineConfig } from 'vite'
+
+export default defineConfig({
+    base: './',
+    build: {
+        outDir: 'docs'
+    }
+})
